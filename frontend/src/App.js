@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Welcome! Check the Console to see a message from the server.
+        Welcome! Check the Console to see a message from the server. And Pochi is lovely
       </header>
     </div>
   );
